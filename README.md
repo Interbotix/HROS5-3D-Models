@@ -1,6 +1,20 @@
 # HROS5-3D-Models
 3D model of the HR-OS5 Humanoid Research Robot.
 
-Models Included:
-* HR-OS5-Jack-v1.stp (HR-OS5 Shelled Model - Jack)
-* HR-OS5-Endo-v1.stp (HR-OS5 Endoskeleton Model)
+### HR-OS5 Shelled Model - Jack
+STEP Format
+* Assembly_STEP/HR-OS5-Jack-v1.stp
+* [HR-OS5 Jack Model Viewer on SketchLab](https://skfb.ly/CBqw) 
+
+### HR-OS5 Endoskeleton Model
+STEP Format
+* Assembly_STEP/HR-OS5-Endo-v1.stp
+* [HR-OS5 Endoskeleton Model Viewer on SketchLab]
+
+### HR-OS5 3D Printed Parts 
+STL Format
+* 3DPrintedShells_STL/Jack
+* 3DPrintedShells_STL/Endo
+ 
+
+
