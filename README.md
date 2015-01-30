@@ -3,7 +3,7 @@
 
 ### HR-OS5 Humanoid Research Robot - Full Assembly w/ Jack 3D Printed Shell
 STEP Format
-* Assembly_STEP/HR-OS5-Jack-v1.stp
+* Assembly_STEP/HR-OS5-Jack-v2.stp
 * [HR-OS5 Jack Model Viewer on SketchLab](https://skfb.ly/CBqw) 
 
 ### HR-OS5 Humanoid Research Robot - Endoskeleton Assembly
